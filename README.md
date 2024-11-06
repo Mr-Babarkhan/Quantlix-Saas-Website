@@ -1,6 +1,6 @@
 # React Project
 
-*This is a simple React project.*
+*This is a Our Quantlix saas React project.*
 
 ## **Getting Started**
 
